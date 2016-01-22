@@ -13,7 +13,7 @@ PRERREQUISITOS
 	- instalar selenium-robot-integraton (robotframework-selenium2library)
 
 - instalar editor ride
-	instalar wxPython (http://sourceforge.net/projects/wxpython/files/wxPython/2.8.12.1/)
+	instalar wxPython (http://sourceforge.net/projects/wxpython/files/wxPython/3.0.2.0/wxPython3.0-win64-3.0.2.0-py27.exe/download)
 	instalar ride: https://pypi.python.org/packages/any/r/robotframework-ride/robotframework-ride-1.5.win-amd64.exe#md5=d81870203dc1aa759f83a1849167cea3
 	
 	(o tambien se puede con pip install robotframework-ride)
